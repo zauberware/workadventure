@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="Resource-ExampleEfficientTileset" tilewidth="32" tileheight="32" tilecount="345" columns="15">
- <image source="../../Downloads/Resource-ExampleEfficientTileset.png" width="480" height="736"/>
+ <image source="Resource-ExampleEfficientTileset.png" width="480" height="736"/>
  <tile id="45">
   <properties>
    <property name="openWebsite" value="https://www.gusto.at/rezepte/zufall"/>
