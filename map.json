@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.gusto.at\/rezepte\/zufall"
+                 "value":"https:\/\/www.scheissewaskocheichheute.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -208,7 +208,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -219,7 +219,7 @@
          "name":"fixed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -231,7 +231,7 @@
          "name":"trees",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
