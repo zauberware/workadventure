@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zaubertime-staging.zauberware.com\/p\/zauberbude\/30-minuten-meeting"
+                 "value":"https:\/\/booking.timedrive.de\/zauberware"
                 }],
          "type":"tilelayer",
          "visible":true,
