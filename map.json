@@ -243,6 +243,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/booking.timedrive.de\/zauberware"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
